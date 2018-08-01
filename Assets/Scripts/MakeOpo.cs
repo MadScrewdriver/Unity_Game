@@ -13,7 +13,7 @@ public class MakeOpo : MonoBehaviour
     public Vector3 pos;
     public int score = 0;
     public Text display_text;
-    public float distance_between = 25; 
+    public float distance_between = 25;
 
     // Use this for initialization
     void Start()

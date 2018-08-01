@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-07-31T23:48:02.737+02:00
-  initializedAtString: 2018-07-31T23:47:59.077+02:00
+  lastUpdatedAtString: 2018-08-01T21:31:55.499+02:00
+  initializedAtString: 2018-08-01T10:27:29.505+02:00
   currentGitRemote:
     name: origin
     url: https://github.com/MadScrewdriver/Unity_Game.git
@@ -34,4 +34,4 @@ MonoBehaviour:
   currentConfigRemote:
     name: origin
     url: https://github.com/MadScrewdriver/Unity_Game.git
-  currentHead: 2517c35
+  currentHead: 3e496bc

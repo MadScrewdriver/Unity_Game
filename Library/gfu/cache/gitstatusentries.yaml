@@ -12,6 +12,186 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-07-31T23:47:59.204+02:00
-  initializedAtString: 2018-07-31T23:47:59.204+02:00
-  entries: []
+  lastUpdatedAtString: 2018-08-01T21:32:24.489+02:00
+  initializedAtString: 2018-08-01T10:27:29.621+02:00
+  entries:
+  - path: Assets\DeathMenu.cs
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Assets\DeathMenu.cs
+    projectPath: Assets\DeathMenu.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\DeathMenu.cs.meta
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Assets\DeathMenu.cs.meta
+    projectPath: Assets\DeathMenu.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\Level01.unity
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Assets\Scenes\Level01.unity
+    projectPath: Assets\Scenes\Level01.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Scenes\Level01\whitebutton.png
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Assets\Scenes\Level01\whitebutton.png
+    projectPath: Assets\Scenes\Level01\whitebutton.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scenes\Level01\whitebutton.png.meta
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Assets\Scenes\Level01\whitebutton.png.meta
+    projectPath: Assets\Scenes\Level01\whitebutton.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Scripts\Collide.cs
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Assets\Scripts\Collide.cs
+    projectPath: Assets\Scripts\Collide.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Scripts\MakeOpo.cs
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Assets\Scripts\MakeOpo.cs
+    projectPath: Assets\Scripts\MakeOpo.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\assetDatabase3
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\5a\5a63b5af3fbc81a45994044e821f8ad4
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Library\metadata\5a\5a63b5af3fbc81a45994044e821f8ad4
+    projectPath: Library\metadata\5a\5a63b5af3fbc81a45994044e821f8ad4
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\71\71c53a50e6f079645b89d51de0421e83
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Library\metadata\71\71c53a50e6f079645b89d51de0421e83
+    projectPath: Library\metadata\71\71c53a50e6f079645b89d51de0421e83
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\75\752135318a6a95946b5e372190cc89b6
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Library\metadata\75\752135318a6a95946b5e372190cc89b6
+    projectPath: Library\metadata\75\752135318a6a95946b5e372190cc89b6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\75\752135318a6a95946b5e372190cc89b6.info
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Library\metadata\75\752135318a6a95946b5e372190cc89b6.info
+    projectPath: Library\metadata\75\752135318a6a95946b5e372190cc89b6.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\78\7850c41482621d94d84a011800e19dee
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Library\metadata\78\7850c41482621d94d84a011800e19dee
+    projectPath: Library\metadata\78\7850c41482621d94d84a011800e19dee
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\78\7850c41482621d94d84a011800e19dee.info
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Library\metadata\78\7850c41482621d94d84a011800e19dee.info
+    projectPath: Library\metadata\78\7850c41482621d94d84a011800e19dee.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ShaderCache\3\341048205dd0459b215d387f603281e2.bin
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Library\ShaderCache\3\341048205dd0459b215d387f603281e2.bin
+    projectPath: Library\ShaderCache\3\341048205dd0459b215d387f603281e2.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\3\3a325bfdee596770dafe891c05e58889.bin
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Library\ShaderCache\3\3a325bfdee596770dafe891c05e58889.bin
+    projectPath: Library\ShaderCache\3\3a325bfdee596770dafe891c05e58889.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\b\be0f03c583197373338520427db2213e.bin
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Library\ShaderCache\b\be0f03c583197373338520427db2213e.bin
+    projectPath: Library\ShaderCache\b\be0f03c583197373338520427db2213e.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ShaderCache\d\d0ba5292c6044b5b31c33c76a7e18578.bin
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Library\ShaderCache\d\d0ba5292c6044b5b31c33c76a7e18578.bin
+    projectPath: Library\ShaderCache\d\d0ba5292c6044b5b31c33c76a7e18578.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\Franek\OneDrive\Unity\Start\Unity_Game\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
